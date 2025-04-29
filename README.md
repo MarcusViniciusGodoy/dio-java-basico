@@ -1,5 +1,5 @@
 # Desafio de Java básico da DIO
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcusViniciusGodoy/React_alura-books/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcusViniciusGodoy/dio-java-basico/blob/main/LICENSE)
 
 ## 🔨 Funcionalidades do projeto
 
